@@ -1,6 +1,6 @@
 import React from "react";
 
-const Book = props => {
+const Book = () => {
   return (
     <div>
       <p>this is the book page.</p>
